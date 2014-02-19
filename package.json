@@ -1,0 +1,7 @@
+{
+  "name": "co-lazy",
+  "version": "0.0.0",
+  "description": "Lazily create co streams",
+  "license": "MIT",
+  "repository": "juliangruber/co-lazy"
+}
