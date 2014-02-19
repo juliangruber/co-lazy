@@ -1,6 +1,6 @@
 {
   "name": "co-lazy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lazily create co streams",
   "license": "MIT",
   "repository": "juliangruber/co-lazy"
