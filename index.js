@@ -6,7 +6,7 @@
  * @return {GeneratorFunction}
  */
 
-module.exports = lazy(fn){
+module.exports = function lazy(fn){
   var stream;
 
   return function*(end){
